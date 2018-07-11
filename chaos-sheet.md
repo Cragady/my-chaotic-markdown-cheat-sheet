@@ -128,7 +128,7 @@ No paragraph break
 2. to break from an ordered list for nesting, you need four spaces. For unordered lists, you just need two.
 
 
-**Tables**
+<!-- **Tables**
 
 *not everything supports tables*
 
@@ -141,7 +141,7 @@ a2 | b2 | c2
 just1 | just2 | just3
 :- | :-: | -: 
 l | c | r
-left | centered | right
+left | centered | right -->
 
 [p]: https://www.reddit.com/r/HFY/wiki/ref/faq/formatting_guide
 [n]: https://www.google.com
