@@ -27,7 +27,7 @@ Hello <sup>World</sup>
 
 Hello <sub>World</sub>
 
-`inlineCode()` || `Or emphasized words`
+`inlineCode()` || `Or emphasized words` 
 
 >quote
 >>nested quote
@@ -129,6 +129,8 @@ No paragraph break
 
 
 **Tables**
+
+*not everything supports tables*
 
 one | two | three
 - | - | -
